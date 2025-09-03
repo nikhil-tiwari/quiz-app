@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gradient-to-r from-indigo-200 via-purple-200 to-pink-200;
+  @apply bg-gradient-to-br from-[#360D3A] via-[#963CFF] to-[#E90052];
 }
